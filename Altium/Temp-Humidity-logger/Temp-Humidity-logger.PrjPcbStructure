@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Battery_Management.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Battery_Management.SchDoc|FileName=ESP32_C3_MINI_1.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Battery_Management.SchDoc|FileName=SD_Card.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Battery_Management.SchDoc|FileName=USB_UART.SchDoc|SheetNumber=1
