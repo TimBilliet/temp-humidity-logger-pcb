@@ -1,0 +1,59 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Tim\Documents\Github repositories\temp-humidity-logger-pcb\Altium\Temp-Humidity-logger\Main-PCB.PcbDoc
+Date     : 18/05/2024
+Time     : 20:37:41
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+   Violation between Clearance Constraint: (0mm < 0.2mm) Between Pad IC3-2(155.15mm,90.5mm) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (0.186mm < 0.2mm) Between Track (144.4mm,92.5mm)(145.3mm,91.6mm) on Top Layer And Via (144.4mm,91.6mm) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad J3-(145.71mm,95.15mm) on Multi-Layer And Polygon Region (31 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J3-(151.49mm,95.15mm) on Multi-Layer And Polygon Region (31 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J3-(151.49mm,95.15mm) on Multi-Layer And Polygon Region (81 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+Rule Violations :3
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=0.3mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.05mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.022mm < 0.05mm) Between Pad C3-1(145.15mm,90.7mm) on Top Layer And Via (144.4mm,91.6mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.022mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.021mm < 0.05mm) Between Pad J3-(145.71mm,95.15mm) on Multi-Layer And Pad J3-A9_B4(146.2mm,94.075mm) on Top Layer [Top Solder] Mask Sliver [0.021mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.021mm < 0.05mm) Between Pad J3-(151.49mm,95.15mm) on Multi-Layer And Pad J3-A4_B9(151mm,94.075mm) on Top Layer [Top Solder] Mask Sliver [0.021mm]
+Rule Violations :3
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Waived Violations : 0
+Time Elapsed        : 00:00:01

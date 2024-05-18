@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Temp-Humidity-logger.PrjPcb]
+   Generated File[Main-PCB_Copper_Signal_Top.gbr]
+   Generated File[Main-PCB_Copper_Signal_Bot.gbr]
+   Generated File[Main-PCB_Legend_Top.gbr]
+   Generated File[Main-PCB_Legend_Bot.gbr]
+   Generated File[Main-PCB_Soldermask_Top.gbr]
+   Generated File[Main-PCB_Soldermask_Bot.gbr]
+   Generated File[Main-PCB_Paste_Top.gbr]
+   Generated File[Main-PCB_Paste_Bot.gbr]
+   Generated File[Main-PCB_Profile.gbr]
+   Generated File[Main-PCB_NPTH_Drill.gbr]
+   Generated File[Main-PCB_PTH_Drill.gbr]
+   Generated File[Main-PCB.EXTREP]
+   Generated File[Main-PCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 21:12:05 On 18/05/2024

@@ -1,4 +1,7 @@
-Record=TopLevelDocument|FileName=Battery_Management.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Battery_Management.SchDoc|FileName=ESP32_C3_MINI_1.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Battery_Management.SchDoc|FileName=SD_Card.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Battery_Management.SchDoc|FileName=USB_UART.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=AHT20_Sensor.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AHT20_Sensor.SchDoc|FileName=Battery_Management.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=AHT20_Sensor.SchDoc|FileName=ESP32_S2_SOLO_2.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AHT20_Sensor.SchDoc|FileName=LDO.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=AHT20_Sensor.SchDoc|FileName=SD_Card.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AHT20_Sensor.SchDoc|FileName=Top_Design.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=AHT20_Sensor.SchDoc|FileName=USB.SchDoc|SheetNumber=6
