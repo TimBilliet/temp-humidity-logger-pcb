@@ -120,7 +120,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KPERBNYX
 
 [Document5]
-DocumentPath=..\..\..\..\..\Downloads\spinewise HW\SU000018 - Device V1.4\AA\Altium\AHT20_Sensor.SchDoc
+DocumentPath=AHT20_Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
